@@ -9,6 +9,7 @@ namespace MyFirstGitAttempt
             Console.WriteLine("GitHub!");
             Console.WriteLine("That was a mistake");
             Console.ReadLine();
+            Console.WriteLine("GitHub!");
         }
     }
 }
