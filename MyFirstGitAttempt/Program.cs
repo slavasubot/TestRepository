@@ -1,6 +1,4 @@
-﻿
-
-using System;
+﻿using System;
 
 namespace MyFirstGitAttempt
 {
@@ -9,7 +7,8 @@ namespace MyFirstGitAttempt
         static void Main(string[] args)
         {
             Console.WriteLine("GitHub!");
-            throw new Exception("EXCP!");
+            Console.WriteLine("That was a mistake");
+            Console.ReadLine();
         }
     }
 }
